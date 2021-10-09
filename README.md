@@ -18,9 +18,9 @@ How to open project ? :
 - Download plugin in Visual Studio Code : Flutter and Dart.
 - Ctrl + Shift + i for automate create project.
 - Delete all code main.dart and then copy main.dart product form marketplace beta version paste to main.dart your project.
-- Create folder lib and folder ui in folder lin on your project.
+- Create folder lib and folder ui in folder lib on your project.
 - Copy paste another file script product form marketplace beta version to your folder project.
-- Setting import path in script product_page,producform,and product_detail.
+- Setting import path in script main,product_page,produk_form,and product_detail.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
