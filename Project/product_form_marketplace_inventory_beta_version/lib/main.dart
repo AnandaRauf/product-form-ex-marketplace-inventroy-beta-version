@@ -1,8 +1,7 @@
 import 'package:aplikasi_flutter_pertamaku/ui/produk_form.dart';
 import 'package:flutter/material.dart';
-import 'package:aplikasi_flutter_pertamaku/hello_world.dart';
-import 'package:aplikasi_flutter_pertamaku/ui/produk_form.dart';
-import 'package:aplikasi_flutter_pertamaku/ui/product_page.dart';
+import 'package:your_name_folder_project/ui/produk_form.dart';
+import 'package:your_name_folder_project/ui/product_page.dart';
 
 void main() {
   runApp(MyApp());
