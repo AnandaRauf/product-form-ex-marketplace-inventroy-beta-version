@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:aplikasi_flutter_pertamaku/ui/produk_detail.dart';
+import 'package:your_name_folder_project/ui/produk_detail.dart';
 
 class TestingProdukForm extends StatefulWidget {
   @override
