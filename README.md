@@ -13,10 +13,10 @@ Featurue :
 How to open project ? :
 - Download Visual Studio Code IDE : https://www.visualstudio.microsoft.com.
 - Download Flutter SDK : https://www.flutter.dev/downloads.
-- Extract file rar Fultter SDK to folder Documents.
+- Extract file rar Flutter SDK to folder Documents.
 - Setting Environent Env : User and Systems : full path flutter/bin.
 - Download plugin in Visual Studio Code : Flutter and Dart.
-- Ctrl + Shift + i for automate create project.
+- Ctrl + Shift + p for automate create project.
 - Delete all code main.dart and then copy main.dart product form marketplace beta version paste to main.dart your project.
 - Create folder lib and folder ui in folder lib on your project.
 - Copy paste another file script product form marketplace beta version to your folder project.
